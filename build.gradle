@@ -7,7 +7,7 @@ plugins {
     id 'net.nemerosa.versioning' version '2.15.1'
 }
 
-group = 'com.github.instagram4j'
+group = 'com.github.alikemalocalan'
 archivesBaseName = 'instagram4j'
 // For release
 // Must be on release/<version> branch
